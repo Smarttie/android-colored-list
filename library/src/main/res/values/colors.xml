@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Google Material Design base colors -->
+    <color name="gmd_color_red">#F44336</color>
+    <color name="gmd_color_pink">#E91E63</color>
+    <color name="gmd_color_fuchsia">#FA029E</color>
+    <color name="gmd_color_purple">#9C27B0</color>
+    <color name="gmd_color_deep_purple">#673AB7</color>
+    <color name="gmd_color_indigo">#3F51B5</color>
+    <color name="gmd_color_blue">#2196F3</color>
+    <color name="gmd_color_light_blue">#03A9F4</color>
+    <color name="gmd_color_cyan">#00BCD4</color>
+    <color name="gmd_color_teal">#009688</color>
+    <color name="gmd_color_green">#4CAF50</color>
+    <color name="gmd_color_light_green">#8BC34A</color>
+    <color name="gmd_color_lime">#CDDC39</color>
+    <color name="gmd_color_yellow">#FFEB3B</color>
+    <color name="gmd_color_amber">#FFC107</color>
+    <color name="gmd_color_orange">#FF9800</color>
+    <color name="gmd_color_deep_orange">#FF5722</color>
+    <color name="gmd_color_brown">#795548</color>
+    <color name="gmd_color_grey">#9E9E9E</color>
+    <color name="gmd_color_blue_grey">#607D8B</color>
+    <color name="gmd_color_black">#000000</color>
+    <color name="gmd_color_white">#FFFFFF</color>
+
+</resources>

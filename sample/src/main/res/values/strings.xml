@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ColoredList</string>
+
+    <string-array name="item_list">
+        <item>Sara Robinson</item>
+        <item>Norma Barnes</item>
+        <item>Janice Walker</item>
+        <item>Annie Martin</item>
+        <item>Victor Thompson</item>
+        <item>Alan Rodriguez</item>
+        <item>Brenda Ward</item>
+        <item>Douglas Carter</item>
+        <item>Joyce Gray</item>
+        <item>Steve Bryant</item>
+        <item>Christina Henderson</item>
+        <item>Helen Johnson</item>
+        <item>Paul Garcia</item>
+        <item>Doris Young</item>
+        <item>Stephen Brown</item>
+        <item>Richard Collins</item>
+        <item>Joe Flores</item>
+        <item>Jose James</item>
+        <item>Sarah Campbell</item>
+        <item>Maria Foster</item>
+        <item>Lori Wilson</item>
+        <item>Steven Simmons</item>
+        <item>Craig Parker</item>
+        <item>Heather Washington</item>
+        <item>Anthony Howard</item>
+    </string-array>
+</resources>
